@@ -1,4 +1,5 @@
 # Rust Blockchain
+
 Basic blockchain implementation in rust with features like mining, transactions, etc.
 
 Reference: Using tutorials in this youtube playlist: https://youtube.com/playlist?list=PLwnSaD6BDfXL0RiKT_5nOIdxTxZWpPtAv
@@ -32,10 +33,14 @@ We will verify 4 things now:
 
 Note: Bitcoin protocol describes 19 steps for verification.
 
-## To run the project: 
+## To run the project:
+
 Step 1: Make sure you have rust and cargo installed in your system.
 
 Step 2: Run using cargo:
+
 ```
 cargo run
 ```
+
+Continue from: 14:17 video 5 : https://www.youtube.com/watch?v=1t4TXnB4Qj4&list=PLwnSaD6BDfXL0RiKT_5nOIdxTxZWpPtAv&index=5
